@@ -1,9 +1,9 @@
-baseURL: "/"
+baseURL: "https://ashleyandrewas.github.io/max-site/"
 languageCode: "en-us"
 title: "Puppy MaX"
 theme: hugo-profile
-relativeURLs: true
-canonifyURLs: true
+# relativeURLs: true
+# canonifyURLs: true
 
 caches:
   images:
