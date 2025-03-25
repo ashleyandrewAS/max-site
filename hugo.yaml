@@ -3,6 +3,7 @@ languageCode: "en-us"
 title: "Puppy MaX"
 theme: hugo-profile
 relativeURLs: true
+canonifyURLs: true
 
 caches:
   images:
