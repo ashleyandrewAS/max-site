@@ -3,6 +3,9 @@ languageCode: "en-us"
 title: "Puppy MaX"
 theme: hugo-profile
 
+caches:
+  images:
+    dir: ":cacheDir/images"
 outputs:
   home:
     - "HTML"
