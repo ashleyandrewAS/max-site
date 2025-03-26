@@ -8,14 +8,14 @@ canonifyURLs: true
 caches:
   images:
     dir: ":cacheDir/images"
-outputs:
-  home:
-    - "HTML"
-    - "RSS"
-    - "JSON"
-  page:
-    - "HTML"
-    - "RSS"
+# outputs:
+#   home:
+#     - "HTML"
+#     - "RSS"
+#     - "JSON"
+#   page:
+#     - "HTML"
+#     - "RSS"
 
 enableRobotsTXT: true
 
