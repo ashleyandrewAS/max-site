@@ -7,7 +7,7 @@ layout: "gallery"
 galleryImages:
   - src: /images/gallery1.jpg
   - src: /images/gallery2.jpg
-  - src: /images/gallery3.png
+  - src: /images/gallery3.jpg
   - src: /images/gallery4.jpg
   - src: /images/gallery5.jpg
   - src: /images/gallery6.jpg
