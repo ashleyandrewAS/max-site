@@ -2,6 +2,7 @@
 title: "NFC TAG FOUND"
 draft: false
 toc: false
+showDate: false
 url: "/rfid/"
 ---
 
