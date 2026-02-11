@@ -1,20 +1,19 @@
 ---
-title: "RFID"
+title: "NFC TAG FOUND"
 draft: false
 url: "/rfid/"
 ---
 
-# 🐾 You found me!
+# 🐾 WOOF, YOU FOUND ME!
 
-Nice one — you found an NFC tag at the event.
+Im MaX a London based pup, Often found in MX Gear.
+
+Feel free to take a look at my socials
 
 ## Choose a link
 
 - **Telegram:** https://t.me/TheMXMaster
 - **Bluesky:** https://bsky.app/profile/puppymax.dog
-- **Gallery:** /gallery
-- **Blog:** /blogs
 
 ---
 
-*Hint: there are more tags hidden…*
