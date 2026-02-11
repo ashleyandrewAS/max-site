@@ -45,11 +45,6 @@ Menus:
       title: Blog posts
       url: /gallery
       weight: 2
-    - identifier: RFID
-      name: RFID
-      title: RFID
-      url: /RFID
-      weight: 3
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
