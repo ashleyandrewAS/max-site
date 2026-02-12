@@ -1,9 +1,10 @@
 ---
 title: "NFC TAG FOUND"
+date: ""
 draft: false
 toc: false
-showDate: false
 url: "/rfid/"
+layout: simple
 ---
 
 # 🐾 WOOF, YOU FOUND ME!
