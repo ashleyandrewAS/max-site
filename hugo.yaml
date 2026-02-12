@@ -214,6 +214,7 @@ params:
   # Single pages like blog and post
   singlePages:
     socialShare: false
+    date: false
     readTime:
       enable: false
       content: "min read"
@@ -221,6 +222,7 @@ params:
       enable: true
     tags:
       openInNewTab: true
+      
 
   # For translations
   terms:
